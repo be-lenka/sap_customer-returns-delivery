@@ -1,0 +1,9 @@
+# # APICUSTOMERRETURNSDELIVERYSRVAReturnsDeliverySrlNmbrTypeCreateToMaintenanceItemObject
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**results** | [**\BeLenka\SAP\CustomerReturnsDelivery\Model\APICUSTOMERRETURNSDELIVERYSRVAReturnsDeliveryMaintObjTypeCreate[]**](APICUSTOMERRETURNSDELIVERYSRVAReturnsDeliveryMaintObjTypeCreate.md) |  | [optional]
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
